@@ -1,0 +1,23 @@
+{
+    "auth": [
+        "user1@gmail.com",
+        "user2@gmail.com"
+    ],
+    "links": {
+        "wiki": {
+            "author": "user1@gmail.com",
+            "url": "https://www.wikipedia.org/",
+            "created": 1680072385
+        },
+        "wapo": {
+            "url": "https://washingtonpost.com/",
+            "author": "user1@gmail.com",
+            "created": 1680149854
+        },
+        "publickeys": {
+            "url": "https://gist.githubusercontent.com/user1/abc/raw/123/publickey.txt",
+            "author": "user1@gmail.com",
+            "created": 1680290598
+        }
+    }
+}
