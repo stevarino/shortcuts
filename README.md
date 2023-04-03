@@ -2,7 +2,7 @@
 
 A quick custom-link system with minimal dependencies utilizing Google OAuth.
 
-<center>![Application Screenshot](/screenshot.png)</center>
+<img src='https://raw.githubusercontent.com/stevarino/shortcuts/main/screenshot.png' alt='Application Screenshot' width='50%' align='right' />
 
 ## Requirements
 
