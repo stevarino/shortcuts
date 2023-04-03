@@ -2,6 +2,10 @@
 
 A quick custom-link system with minimal dependencies utilizing Google OAuth.
 
+Given a root url of `https://shortcuts.example.com` and a configured mapping of `wapo` -> `https://washingtonpost.com`, pointing a browser at `https://shortcuts.example.com/wapo` will redirect to `https://washingtonpost.com`. This is intended as a private version of [corporate-style go-links](https://golinks.medium.com/silicon-valleys-biggest-secret-the-golink-7b42d93bc8c4).
+
+This is very useful for referencing resources with cumbersome domains (GitHub gists, Google Docs, discord channels) and deep-linking commonly cited resources.
+
 <img src='https://raw.githubusercontent.com/stevarino/shortcuts/main/screenshot.png' alt='Application Screenshot' width='50%' align='right' />
 
 ## Requirements
