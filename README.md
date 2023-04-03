@@ -2,6 +2,8 @@
 
 A quick custom-link system with minimal dependencies utilizing Google OAuth.
 
+<center>![Application Screenshot](/screenshot.png)</center>
+
 ## Requirements
 
  - PHP with mod-rewrite support (or similar - path is passed in via `?link=...` querystring)
